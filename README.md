@@ -1,4 +1,12 @@
+# 💫 Hi 👋, I'm Narendra Raj
+**A passionate Full Stack Developer || C++/Python Programmer  from India**
 
+Email Me 👉 ✉️ **itzmeprinceraj@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🌱 **I’m currently learning:** Full Stack Web Development
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** itzmeprinceraj@gmail.com
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:itzmeprinceraj@gmail.com) 
 
