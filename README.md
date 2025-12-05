@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ **itzmeprinceraj@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🌱 **I’m currently learning:** Full Stack Web Development
+- 🌱 **I’m currently learning:** Full Stack Web Development, Machine Learning
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** itzmeprinceraj@gmail.com
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
